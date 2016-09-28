@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,15 +135,15 @@
        id="text3031"
        sodipodi:linespacing="89.999998%"><tspan
          sodipodi:role="line"
-         id="tspan3033"
          x="26.263966"
          y="1004.8162"
-         style="font-size:14.3250494px;line-height:89.99999762%;fill:#1a1a1a">Source: github.com/svetit</tspan><tspan
+         id="tspan3035"
+         style="font-size:14.3250494px;line-height:89.99999762%;fill:#1a1a1a">Source: github.com/svetit/</tspan><tspan
          sodipodi:role="line"
          x="26.263966"
          y="1017.7087"
-         id="tspan3035"
-         style="font-size:14.3250494px;line-height:89.99999762%;fill:#1a1a1a">/2016-postcards-brand-experiment</tspan><tspan
+         style="font-size:14.32504939999999927px;line-height:89.99999762000000203%;fill:#1a1a1a;letter-spacing:-0.17px"
+         id="tspan3005">2016-postcards-brand-experiment</tspan><tspan
          sodipodi:role="line"
          x="26.263966"
          y="1030.6013"
